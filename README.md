@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Book Library Management System
 
 This Laravel application is designed to manage books in a library. It includes features for adding, borrowing, and returning books, with overdue notifications.
@@ -57,3 +58,6 @@ This Laravel application is designed to manage books in a library. It includes f
 
 ## Credits
 - Developed by Manikandan S
+=======
+# bookLibrary
+>>>>>>> 0be3be88414753ec06784336cae52cc6e7aafc16
